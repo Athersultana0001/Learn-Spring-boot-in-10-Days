@@ -488,150 +488,225 @@ Applications extend to various domains and offer valuable skills for developers,
     -   B. Remote System Testing
     -   C. Resourceful Service Transfer
     -   D. Remote Entity Service Technology
+
+  **Correct Answer:** A. Representational State Transfer✅
+
 2.  In RESTful architecture, what are resources? 🌐
     
     -   A. Hardware devices
     -   B. URLs
     -   C. Data entities that can be identified by a URI
     -   D. User interfaces
+
+  **Correct Answer:** C. Data entities that can be identified by a URI✅
+
 3.  Which HTTP method is typically used for retrieving data in RESTful APIs? 📡
     
     -   A. POST
     -   B. PUT
     -   C. DELETE
     -   D. GET
+
+  **Correct Answer:** D. GET✅
+
 4.  What is the uniform interface constraint in RESTful architecture? 🧩
     
     -   A. It ensures that all resources have a uniform structure.
     -   B. It specifies a uniform way of interacting with resources.
     -   C. It enforces the use of the same programming language for all clients.
     -   D. It standardizes the data format of all responses.
+
+  **Correct Answer:** B. It specifies a uniform way of interacting with resources.✅
+
 5.  Which HTTP status code indicates a successful response in RESTful APIs? 🟢
     
     -   A. 404 Not Found
     -   B. 200 OK
     -   C. 500 Internal Server Error
     -   D. 403 Forbidden
+
+  **Correct Answer:** B. 200 OK✅
+
 6.  What is the purpose of the HTTP POST method in RESTful APIs? 📮
     
     -   A. Updating an existing resource
     -   B. Deleting a resource
     -   C. Creating a new resource
     -   D. Retrieving data
+
+  **Correct Answer:** C. Creating a new resource✅
+
 7.  Which HTTP method is idempotent, meaning that making the same request multiple times has the same effect as making it once? 🔄
     
     -   A. GET
     -   B. POST
     -   C. PUT
     -   D. DELETE
+
+  **Correct Answer:** A. GET✅
+
 8.  In RESTful API design, what is the purpose of the URI? 🌐
     
     -   A. It specifies the location of the server.
     -   B. It provides a unique identifier for the client.
     -   C. It uniquely identifies a resource.
     -   D. It determines the response format (e.g., JSON or XML).
+
+  **Correct Answer:** C. It uniquely identifies a resource.✅
+
 9.  What does CRUD stand for in the context of RESTful APIs? 📚
     
     -   A. Create, Retrieve, Update, Delete
     -   B. Convert, Retrieve, Use, Debug
     -   C. Connect, Request, Update, Deploy
     -   D. Control, Reuse, Update, Delete
+
+  **Correct Answer:** A. Create, Retrieve, Update, Delete✅
+
 10.  Which HTTP method is used to create a new resource in a RESTful API? 🆕
     
       -   A. GET
       -   B. POST
       -   C. PUT
       -   D. DELETE
+
+  **Correct Answer:** B. POST✅
+
 11.  What does RESTful architecture emphasize regarding interactions with resources? 🚀
     
       -   A. Stateless interactions
       -   B. Frequent use of cookies
       -   C. Encrypted communications
       -   D. Real-time interactions
+
+  **Correct Answer:** A. Stateless interactions✅
+
 12.  Which of the following HTTP methods is not idempotent in RESTful APIs? 📊
     
       -   A. GET
       -   B. POST
       -   C. PUT
       -   D. DELETE
+
+  **Correct Answer:** B. POST✅
+
 13.  What is the primary benefit of using meaningful URI patterns in RESTful API design? 🚀
     
       -   A. It makes the API faster.
       -   B. It increases security.
       -   C. It enhances documentation.
       -   D. It improves understandability and usability.
+
+  **Correct Answer:** D. It improves understandability and usability.✅
+
 14.  In RESTful API design, what does the term "resource" refer to? 🌟
     
       -   A. The server's physical location
       -   B. A data entity that can be identified by a URI
       -   C. A specific HTTP method
       -   D. A programming language
+
+  **Correct Answer:** B. A data entity that can be identified by a URI✅
+
 15.  Which HTTP status code indicates that the requested resource could not be found in a RESTful API? 🕵️‍♂️
     
       -   A. 200 OK
       -   B. 404 Not Found
       -   C. 500 Internal Server Error
       -   D. 403 Forbidden
+
+  **Correct Answer:** B. 404 Not Found✅
+
 16.  What is the purpose of the HTTP DELETE method in RESTful APIs? 🗑️
     
       -   A. Updating an existing resource
       -   B. Creating a new resource
       -   C. Retrieving data
       -   D. Deleting a resource
+
+  **Correct Answer:** D. Deleting a resource✅
+
 17.  What does the acronym "URI" stand for in RESTful architecture? 🌐
     
       -   A. Unified Resource Identifier
       -   B. Unique Routing Identifier
       -   C. Uniform Resource Identifier
       -   D. Unified Routing Interface
+
+  **Correct Answer:** C. Uniform Resource Identifier✅
+
 18.  In RESTful architecture, what is the term for the set of constraints that must be satisfied for an API to be considered RESTful? 🧩
     
       -   A. API Blueprint
       -   B. RESTful Principles
       -   C. RESTful Guidelines
       -   D. RESTful Constraints
+
+  **Correct Answer:** D. RESTful Constraints✅
+
 19.  Which HTTP status code indicates a server error in a RESTful API? 🛠️
     
       -   A. 200 OK
       -   B. 404 Not Found
       -   C. 500 Internal Server Error
       -   D. 201 Created
+
+  **Correct Answer:** C. 500 Internal Server Error✅
+
 20.  What is the primary benefit of adhering to RESTful principles in API design? 🌈
     
       -   A. It makes the API faster.
       -   B. It ensures compatibility with all programming languages.
       -   C. It promotes simplicity, scalability, and loose coupling.
       -   D. It eliminates the need for documentation.
+
+  **Correct Answer:** C. It promotes simplicity, scalability, and loose coupling.✅
+
 21.  Which HTTP method is used for updating an existing resource in a RESTful API? 📝
     
       -   A. GET
       -   B. POST
       -   C. PUT
       -   D. DELETE
+
+  **Correct Answer:** C. PUT✅
+
 22.  In RESTful API design, what does "idempotent" mean? ♻️
     
       -   A. The same operation yields the same result, regardless of how many times it's executed.
       -   B. The operation can only be executed once.
       -   C. The operation can be executed without a valid URI.
       -   D. The operation requires user authentication.
+
+  **Correct Answer:** A. The same operation yields the same result, regardless of how many times it's executed.✅
+
 23.  What is the primary purpose of HTTP status codes in RESTful APIs? 🚦
     
       -   A. To specify the desired response format
       -   B. To define the API's URI structure
       -   C. To indicate the result of an HTTP request
       -   D. To provide a secure connection
+
+  **Correct Answer:** C. To indicate the result of an HTTP request✅
+
 24.  In RESTful API design, which HTTP status code indicates that the client does not have permission to access the requested resource? 🔐
     
       -   A. 200 OK
       -   B. 404 Not Found
       -   C. 500 Internal Server Error
       -   D. 403 Forbidden
+
+  **Correct Answer:** D. 403 Forbidden✅
+
 25.  What is the primary advantage of using HTTP methods in RESTful APIs? 🌟
     
       -   A. They simplify the URI structure.
       -   B. They enable secure communication.
       -   C. They provide a standardized way to interact with resources.
       -   D. They eliminate the need for status codes.
+
+  **Correct Answer:** C. They provide a standardized way to interact with resources.✅
+
 
 **Congratulations on completing Day 3 of your Spring Boot journey!** 🌟
 
