@@ -339,67 +339,95 @@ Day 1 provided a comprehensive introduction to Spring Boot, setting the stage fo
 
 # Knowledge Test - Quiz.
 
-1.  What is the primary goal of Spring Boot? 🤔
+1.  **What is the primary goal of Spring Boot?** 🤔
     
     -   A. To complicate Spring application development.
     -   B. To provide a framework for building desktop applications.
-    -   C. To simplify Spring application development.
+    -   C. To simplify Spring application development. 
     -   D. To promote XML-based configuration.
-2.  Which core concepts are associated with the Spring Framework? 🤓
     
-    -   A. Inversion of Control (IoC) and Extensibility
+    **Correct Answer:** C. To simplify Spring application development. ✅
+    
+2.  **Which core concepts are associated with the Spring Framework?** 🤓
+    
+    -   A. Inversion of Control (IoC) and Extensibility 
     -   B. Dependency Injection (DI) and Concurrency
     -   C. Encapsulation and Polymorphism
     -   D. Abstraction and Inheritance
-3.  What does Spring Boot offer in terms of convention over configuration? 🧐
+    
+    **Correct Answer:** A. Inversion of Control (IoC) and Extensibility ✅
+    
+3.  **What does Spring Boot offer in terms of convention over configuration?** 🧐
     
     -   A. It enforces strict configuration rules.
     -   B. It requires extensive XML configuration.
-    -   C. It reduces the need for manual configuration through sensible defaults.
+    -   C. It reduces the need for manual configuration through sensible defaults. 
     -   D. It provides no configuration options.
-4.  Which development environment is commonly used with Spring Boot? 🖥️
+    
+    **Correct Answer:** C. It reduces the need for manual configuration through sensible defaults. ✅
+    
+4.  **Which development environment is commonly used with Spring Boot?** 🖥️
     
     -   A. Visual Studio Code
     -   B. Eclipse
-    -   C. IntelliJ IDEA
+    -   C. IntelliJ IDEA 
     -   D. Notepad
-5.  What is the Spring Initializer? 🚀
+    
+    **Correct Answer:** C. IntelliJ IDEA ✅
+    
+5.  **What is the Spring Initializer?** 🚀
     
     -   A. A tool for generating project metadata.
-    -   B. A web-based tool for generating Spring Boot project templates.
+    -   B. A web-based tool for generating Spring Boot project templates. 
     -   C. A plugin for Eclipse.
     -   D. An integrated development environment (IDE).
-6.  Which build system is often used with Spring Boot for managing project dependencies? 🏗️
     
-    -   A. Apache Maven
+    **Correct Answer:** B. A web-based tool for generating Spring Boot project templates. ✅
+    
+6.  **Which build system is often used with Spring Boot for managing project dependencies?** 🏗️
+    
+    -   A. Apache Maven 
     -   B. Gradle
     -   C. Ant
     -   D. Make
-7.  What is the primary purpose of Spring Boot starters? 🛠️
+    
+    **Correct Answer:** A. Apache Maven ✅
+    
+7.  **What is the primary purpose of Spring Boot starters?** 🛠️
     
     -   A. To add unnecessary complexity to projects.
-    -   B. To provide sensible defaults for project setup.
+    -   B. To provide sensible defaults for project setup. 
     -   C. To eliminate the need for any dependencies.
     -   D. To remove all configuration options.
-8.  In a "Hello World" Spring Boot application, where is the REST endpoint typically defined? 🌐
+    
+    **Correct Answer:** B. To provide sensible defaults for project setup. ✅
+    
+8.  **In a "Hello World" Spring Boot application, where is the REST endpoint typically defined?** 🌐
     
     -   A. In a separate XML configuration file.
     -   B. In a properties file.
     -   C. In the Spring Boot Initializer.
-    -   D. In a Java class annotated with `@RestController`.
-9.  Which Spring Boot feature is beneficial for automatic application restarts during development? ♻️
+    -   D. In a Java class annotated with @RestController. 
+    
+    **Correct Answer:** D. In a Java class annotated with @RestController. ✅
+    
+9.  **Which Spring Boot feature is beneficial for automatic application restarts during development?** ♻️
     
     -   A. Spring Boot CLI
     -   B. Spring Initializer
-    -   C. Spring Developer Tools
+    -   C. Spring Developer Tools 
     -   D. Spring Batch
-10.  What will be covered in the upcoming lessons of this course? 📚
     
-     -   A. Advanced Spring Boot topics only.
-     -   B. Basic Spring Boot topics only.
-     -   C. Spring Boot history and evolution.
-     -   D. Core Spring Framework concepts.
-
+    **Correct Answer:** C. Spring Developer Tools ✅
+    
+10.  **What will be covered in the upcoming lessons of this course?** 📚
+    
+      -   A. Advanced Spring Boot topics only. 
+      -   B. Basic Spring Boot topics only.
+      -   C. Spring Boot history and evolution.
+      -   D. Core Spring Framework concepts.
+    
+      **Correct Answer:** A. Advanced Spring Boot topics only. ✅
 
 "Success is not the result of one good day, but the accumulation of many dedicated days. Day 2 of your Spring Boot course is another step closer to achieving your goals as a developer. Each day brings new knowledge and skills, so keep your curiosity alive and stay committed to your learning journey. The world of Spring Boot is waiting for you to explore its endless possibilities. Let's make Day 2 a day of growth and progress!"
 
