@@ -6,10 +6,12 @@
 | Lesson 2 | :nut_and_bolt: Spring Boot Fundamentals | - :file_folder: Spring Boot project structure |
 | | | - :label: Spring Boot annotations |
 | | | - :inbox_tray: Dependency injection and application context |
-| Lesson 3 | :earth_americas: Building RESTful APIs with Spring Boot | - :building: Introduction to RESTful architecture |
+| | | - :building_construction: Maven, MVC, Repository |
+| Lesson 3 | :earth_americas: Building RESTful APIs with Spring Boot | - :page_with_curl: Introduction to RESTful architecture |
 | | | - :wrench: Creating a basic RESTful API |
 | Lesson 4 | :floppy_disk: Data Access with Spring Boot | - :page_with_curl: Introduction to Spring Data JPA |
 | | | - :pager: Creating a CRUD application with Spring Boot and JPA |
+| | | - :hammer_and_wrench: Thymeleaf and Freemarker |
 | Lesson 5 | :globe_with_meridians: Spring Boot Web Development | - :desktop_computer: Spring Boot for web applications |
 | | | - :computer: Creating controllers and views |
 | Lesson 6 | :lock: Security and Authentication | - :key: Introduction to Spring Security |
