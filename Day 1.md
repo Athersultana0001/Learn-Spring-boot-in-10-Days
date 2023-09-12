@@ -51,35 +51,19 @@ In this section, we will delve into the history of Spring Boot to understand its
 
 ### Key Milestones 🏁
 
-- **Spring Boot 1.0 (March 2014)**:
-  - The first official release of Spring Boot marked a significant shift in the Spring ecosystem. It introduced features such as auto-configuration, which reduced the need for manual setup.
+| Spring Boot Version | Release Date | Key Features and Enhancements                                             |
+|--------------------|--------------|--------------------------------------------------------------------------|
+| 1.0                | March 2014   | 🚀 Introduction of auto-configuration, reducing the need for manual setup. |
+| 1.1                | May 2014     | 🌟 Enhanced developer productivity with improved Groovy support.           |
+| 1.2                | December 2014| ✨ Added support for Java 8. 🎯 Custom application properties. 📊 Enhancements to metrics and actuator endpoints. |
+| 1.3                | October 2015 | 🔧 Introduction of Developer Tools for automatic application restarts during development. 🚀 Support for embedded Undertow and RxJava. |
+| 1.4                | August 2016  | 🛠️ Focus on stability and updates to various dependencies, including Spring Framework 4.3 and Spring Data 1.10. |
+| 2.0                | March 2018   | 🎉 Major milestone with compatibility with Spring Framework 5, Java 9 support, and introduction of reactive programming with Spring WebFlux. |
+| 2.1                | October 2018 | 🌟 Improved developer experience with features like the Actuator "hal" browser and better support for testing. |
+| 2.2                | November 2019| 🔧 Continued enhancement of support for reactive programming and introduction of "slices" for more fine-grained testing. |
+| 2.3                | May 2020     | 📦 Focused on dependency updates and improvements to the Kubernetes deployment experience. |
+| 2.4                | November 2020| 🚀 Introduced features like improved startup times, better GraalVM support, and more. |
 
-- **Spring Boot 1.1 (May 2014)**:
-  - This version focused on enhancing developer productivity with features like improved Groovy support and enhancements to the Spring Boot CLI (Command Line Interface).
-
-- **Spring Boot 1.2 (December 2014)**:
-  - Spring Boot 1.2 brought several improvements, including support for Java 8, custom application properties, and enhancements to metrics and actuator endpoints.
-
-- **Spring Boot 1.3 (October 2015)**:
-  - This release introduced features like the Developer Tools for automatic application restarts during development and support for embedded Undertow and RxJava.
-
-- **Spring Boot 1.4 (August 2016)**:
-  - Spring Boot 1.4 focused on stability and brought updates to various dependencies, including Spring Framework 4.3 and Spring Data 1.10.
-
-- **Spring Boot 2.0 (March 2018)**:
-  - A major milestone, Spring Boot 2.0, brought compatibility with Spring Framework 5, Java 9, and introduced reactive programming support with Spring WebFlux.
-
-- **Spring Boot 2.1 (October 2018)**:
-  - This version emphasized improved developer experience with features like the Actuator "hal" browser and better support for testing.
-
-- **Spring Boot 2.2 (November 2019)**:
-  - Spring Boot 2.2 continued to enhance support for reactive programming and introduced the concept of "slices" for more fine-grained testing.
-
-- **Spring Boot 2.3 (May 2020)**:
-  - Spring Boot 2.3 focused on dependency updates and improvements to the Kubernetes deployment experience.
-
-- **Spring Boot 2.4 (November 2020)**:
-  - The 2.4 release introduced features like improved startup times, better GraalVM support, and more.
 
 ### Community and Adoption 🤝
 
