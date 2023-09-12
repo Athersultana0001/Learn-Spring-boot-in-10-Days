@@ -1,0 +1,236 @@
+LEARN SPRING BOOT IN 10 DAYS
+
+Lesson1	-   Introduction to Spring Boot
+	- ElementA - Overview of Spring Framework
+		- elementB - Explanation of concept     - History of Spring Boot 
+		- elementC - Example of concept		- na
+		- elementD - Where it is used		- na
+		- elementE - sample code		- na
+		- elementF - image			- relevant images of Spring Boot
+		- elementG - summary			- na
+		- elementH - interview questions	- knowledge check about the Spring Boot history
+	- ElementA - concept2 - Introduction to Spring Boot	
+		- elementB - Explanation of concept     - Introduction to Spring Boot
+		- elementC - Example of concept		- na
+		- elementD - Where it is used		- Applications Spring Boot
+		- elementE - sample code		- na
+		- elementF - image			- relevant images of Spring Boot
+		- elementG - summary			- summary of Spring Boot
+		- elementH - interview questions	- knowledge check about the Introduction to Spring Boot
+	- ElementA - concept3 	- Setting up the development environment
+		- elementB - Explanation of concept     - Setting up the development environment
+		- elementC - Example of concept		- Setting up the development environment
+		- elementD - Where it is used		- Applications of Setting up the development environment
+		- elementE - sample code		- java code for Setting up the development environment
+		- elementF - image			- na
+		- elementG - summary			- summary og Setting up the development environment
+		- elementH - interview questions	- knowledge check about Setting up the development environment
+
+Lesson2	-  Spring Boot Fundamentals
+	- ElementA - concept1 	- Spring Boot project structure
+		- elementB - Explanation of concept     - Spring Boot project structure
+		- elementC - Example of concept		- Spring Boot project structure
+		- elementD - Where it is used		- Spring Boot project structure
+		- elementE - sample code		- Java code Spring Boot project structure
+		- elementF - image			- Spring Boot Fundamentals
+		- elementG - summary			- summary of Spring Boot project structure
+		- elementH - interview questions	- knowledge check about Spring Boot project structure
+	- ElementA - concept2 - Spring Boot annotations
+		- elementB - Explanation of concept     - Spring Boot annotations
+		- elementC - Example of concept		- Spring Boot annotations
+		- elementD - Where it is used		- Applications of Spring Boot annotations
+		- elementE - sample code		- na
+		- elementF - image			- na
+		- elementG - summary			- summary of Spring Boot annotations
+		- elementH - interview questions	- knowledge check about the Spring Boot annotations
+	- ElementA - concept3 	- Dependency injection and application context
+		- elementB - Explanation of concept     - Dependency injection and application context
+		- elementC - Example of concept		- Dependency injection and application context
+		- elementD - Where it is used		- Applications of Dependency injection and application context
+		- elementE - sample code		- java code for Dependency injection and application context
+		- elementF - image			- relevant images of Dependency injection and application context
+		- elementG - summary			- summary of Dependency injection and application context
+		- elementH - interview questions	- knowledge check about Dependency injection and application context
+	- ElementA - concept4 	- Maven, MVC, Repository
+		- elementB - Explanation of concept     - Maven, MVC, Repository
+		- elementC - Example of concept		- Maven, MVC, Repository
+		- elementD - Where it is used		- Applications of Maven, MVC, Repository
+		- elementE - sample code		- java code for Maven, MVC, Repository
+		- elementF - image			- na
+		- elementG - summary			- summary of Maven, MVC, Repository
+		- elementH - interview questions	- knowledge check about Maven, MVC, Repository
+
+Lesson3	-  Building RESTful APIs with Spring Boot
+	- ElementA - concept1 	- Introduction to RESTful architecture
+		- elementB - Explanation of concept     - Introduction to RESTful architecture
+		- elementC - Example of concept		- Introduction to RESTful architecture
+		- elementD - Where it is used		- Applications of Introduction to RESTful architectures
+		- elementE - sample code		- java codes for Introduction to RESTful architecture
+		- elementF - image			- na
+		- elementG - summary			- summary of Introduction to RESTful architecture
+		- elementH - interview questions	- knowledge check about Introduction to RESTful architecture
+	- ElementA - concept2 -  Creating a basic RESTful API
+		- elementB - Explanation of concept     - Creating a basic RESTful API
+		- elementC - Example of concept		- Creating a basic RESTful API
+		- elementD - Where it is used		- Applications of Creating a basic RESTful API
+		- elementE - sample code		- java codes for Creating a basic RESTful API
+		- elementF - image			- na
+		- elementG - summary			- summary of Creating a basic RESTful API
+		- elementH - interview questions	- knowledge check about the Creating a basic RESTful API
+
+Lesson4	-  Data Access with Spring Boot
+	- ElementA - concept1 	-  Introduction to Spring Data JPA
+		- elementB - Explanation of concept     - Introduction to Spring Data JPA
+		- elementC - Example of concept		- Introduction to Spring Data JPA
+		- elementD - Where it is used		- Applications of Introduction to Spring Data JPA
+		- elementE - sample code		- java codes for Introduction to Spring Data JPA
+		- elementF - image			- relevant images of Introduction to Spring Data JPA
+		- elementG - summary			- summary of Introduction to Spring Data JPA
+		- elementH - interview questions	- knowledge check about the Introduction to Spring Data JPA
+	- ElementA - concept2 - Creating a CRUD application with Spring Boot and JPA
+		- elementB - Explanation of concept     - Creating a CRUD application with Spring Boot and JPA
+		- elementC - Example of concept		- Creating a CRUD application with Spring Boot and JPA
+		- elementD - Where it is used		- Applications of Creating a CRUD application with Spring Boot and JPA
+		- elementE - sample code		- java codes for Creating a CRUD application with Spring Boot and JPA
+		- elementF - image			- na
+		- elementG - summary			- summary of Creating a CRUD application with Spring Boot and JPA
+                - elementH - interview questions	- knowledge check about the Creating a CRUD application with Spring Boot and JPA
+	- ElementA - concept3 - Thymeleaf and Freemarker
+		- elementB - Explanation of concept     - Thymeleaf and Freemarker
+		- elementC - Example of concept		- Thymeleaf and Freemarker
+		- elementD - Where it is used		- Applications of Thymeleaf and Freemarker
+		- elementE - sample code		- java codes for Thymeleaf and Freemarker
+		- elementF - image			- na
+		- elementG - summary			- summary of Thymeleaf and Freemarker
+
+Lesson5	-  Spring Boot Web Development
+	- ElementA - concept1 	- Spring Boot for web applications
+		- elementB - Explanation of concept     - Spring Boot for web applications
+		- elementC - Example of concept		- Spring Boot for web applications
+		- elementD - Where it is used		- Applications of Spring Boot for web applications
+		- elementE - sample code		- java codes for Spring Boot for web applications
+		- elementF - image			- relevant images of Spring Boot for web applications
+		- elementG - summary			- summary of Spring Boot for web applications
+		- elementH - interview questions	- knowledge check about Spring Boot for web applications
+	- ElementA - concept2 - Creating controllers and views
+		- elementB - Explanation of concept     - Creating controllers and views
+		- elementC - Example of concept		- Creating controllers and views
+		- elementD - Where it is used		- Applications of Creating controllers and views
+		- elementE - sample code		- java codes for Creating controllers and views
+		- elementF - image			- relevant images of Creating controllers and views
+		- elementG - summary			- summary of Inheritance
+		- elementH - interview questions	- knowledge check about the Creating controllers and views
+
+Lesson6	-  Security and Authentication
+	- ElementA -  Introduction to Spring Security
+		- elementB - Explanation of concept     - Spring Security
+		- elementC - Example of concept		- Spring Security
+		- elementD - Where it is used		- Applications of Spring Security
+		- elementE - sample code		- java codes for Spring Security
+		- elementF - image			- relevant images Spring Security
+		- elementG - summary			- summary of Spring Security
+		- elementH - interview questions	- knowledge check about Spring Security
+	- ElementA - concept2 - Implementing basic authentication and authorization
+		- elementB - Explanation of concept     - Implementing basic authentication and authorization
+		- elementC - Example of concept		- Implementing basic authentication and authorization
+		- elementD - Where it is used		- Applications of Implementing basic authentication and authorization
+		- elementE - sample code		- java codes for Implementing basic authentication and authorization
+		- elementF - image			- relevant images of Implementing basic authentication and authorization
+		- elementG - summary			- summary of Implementing basic authentication and authorization
+		- elementH - interview questions	- knowledge check about Implementing basic authentication and authorization
+
+Lesson7	-   Testing in Spring Boot
+	- ElementA - concept1 	- Unit testing and integration testing in Spring Boot
+		- elementB - Explanation of concept     - Unit testing and integration testing in Spring Boot
+		- elementC - Example of concept		- Unit testing and integration testing in Spring Boot
+		- elementD - Where it is used		- Applications of Unit testing and integration testing in Spring Boot
+		- elementE - sample code		- java codes for Unit testing and integration testing in Spring Boot
+		- elementF - image			- relevant images of Unit testing and integration testing in Spring Boot
+		- elementG - summary			- summary of Unit testing and integration testing in Spring Boot
+		- elementH - interview questions	- knowledge check about Unit testing and integration testing in Spring Boot
+	- ElementA - concept2 - Writing unit tests and integration tests
+		- elementB - Explanation of concept     - Writing unit tests and integration tests
+		- elementC - Example of concept		- Writing unit tests and integration tests
+		- elementD - Where it is used		- Applications of Writing unit tests and integration tests
+		- elementE - sample code		- java codes for Writing unit tests and integration tests
+		- elementF - image			- relevant images of Writing unit tests and integration tests
+		- elementG - summary			- summary of Writing unit tests and integration tests
+		- elementH - interview questions	- knowledge check about the Writing unit tests and integration tests
+
+Lesson8	-  Spring Boot and Microservices
+	- ElementA - concept1 	- Overview of microservices architecture
+		- elementB - Explanation of concept     - microservices architectur
+		- elementC - Example of concept		- microservices architectur
+		- elementD - Where it is used		- Applications of microservices architectur
+		- elementE - sample code		- java codes for microservices architectur
+		- elementF - image			- relevant images of microservices architectur
+		- elementG - summary			- summary of microservices architectur
+		- elementH - interview questions	- knowledge check about the microservices architectur
+	- ElementA - concept2 - Creating a simple microservice with Spring Boot
+		- elementB - Explanation of concept     - Creating a simple microservice with Spring Boot
+		- elementC - Example of concept		- Creating a simple microservice with Spring Boot
+		- elementD - Where it is used		- Applications of Creating a simple microservice with Spring Boot
+		- elementE - sample code		- java codes for Creating a simple microservice with Spring Boot
+		- elementF - image			- relevant images of Creating a simple microservice with Spring Boot
+		- elementG - summary			- summary of Creating a simple microservice with Spring Boot
+		- elementH - interview questions	- knowledge check about the Creating a simple microservice with Spring Boot
+
+Lesson9	-  Logging, Monitoring, and Deployment
+	- ElementA - concept1 	- Configuring logging in Spring Boot
+		- elementB - Explanation of concept     - Configuring logging in Spring Boot
+		- elementC - Example of concept		- Configuring logging in Spring Boot
+		- elementD - Where it is used		- Applications of Configuring logging in Spring Boot
+		- elementE - sample code		- java codes for Configuring logging in Spring Boot
+		- elementF - image			- relevant images of Configuring logging in Spring Boot
+		- elementG - summary			- summary of Configuring logging in Spring Boot
+		- elementH - interview questions	- knowledge check about the Configuring logging in Spring Boot
+	- ElementA - concept2 - Exploring monitoring tools like Actuator
+		- elementB - Explanation of concept     - monitoring tools like Actuator
+		- elementC - Example of concept		- monitoring tools like Actuator
+		- elementD - Where it is used		- Applications of monitoring tools like Actuator
+		- elementE - sample code		- java codes for monitoring tools like Actuator
+		- elementF - image			- relevant images of monitoring tools like Actuator
+		- elementG - summary			- summary of monitoring tools like Actuator
+		- elementH - interview questions	- knowledge check about the monitoring tools like Actuator
+	- ElementA - concept3 - Deploying Spring Boot applications
+		- elementB - Explanation of concept     - Deploying Spring Boot applications
+		- elementC - Example of concept		- Deploying Spring Boot applications
+		- elementD - Where it is used		- Applications of Deploying Spring Boot applications
+		- elementE - sample code		- java codes for Deploying Spring Boot applications
+		- elementF - image			- relevant images of Deploying Spring Boot applications
+		- elementG - summary			- summary of Deploying Spring Boot applications
+		- elementH - interview questions	- knowledge check about the Deploying Spring Boot applications
+Lesson10-  Advanced Topics and Wrap-Up
+	- ElementA - concept1 	- Spring Boot profiles
+		- elementB - Explanation of concept     - Spring Boot profiles
+		- elementC - Example of concept		- Spring Boot profiles
+		- elementD - Where it is used		- Applications of Spring Boot profiles
+		- elementE - sample code		- java codes for Spring Boot profiles
+		- elementF - image			- relevant images of Spring Boot profiles
+		- elementG - summary			- summary of Spring Boot profiles
+		- elementH - interview questions	- knowledge check about the Spring Boot profiles
+	- ElementA - concept2 - Caching in Spring Boot
+		- elementB - Explanation of concept     - Caching in Spring Boot
+		- elementC - Example of concept		- Caching in Spring Boot
+		- elementD - Where it is used		- Applications of Caching in Spring Boot
+		- elementE - sample code		- java codes for Caching in Spring Boot
+		- elementF - image			- relevant images of Caching in Spring Boot
+		- elementG - summary			- summary of Caching in Spring Boot
+		- elementH - interview questions	- knowledge check about the Caching in Spring Boot
+	- ElementA - concept3 	- Internationalization in Spring Boot
+		- elementB - Explanation of concept     - Internationalization in Spring Boot
+		- elementC - Example of concept		- Internationalization in Spring Boot
+		- elementD - Where it is used		- Applications of Internationalization in Spring Boot
+		- elementE - sample code		- java code for Internationalization in Spring Boot
+		- elementF - image			- relevant images of Internationalization in Spring Boot
+		- elementG - summary			- summary of Internationalization in Spring Boot
+		- elementH - interview questions	- knowledge check about Internationalization in Spring Boot
+	- ElementA - concept3 	- Review and mini-project
+		- elementB - Explanation of concept     - Review and mini-project
+		- elementC - Example of concept		- Review and mini-project
+		- elementD - Where it is used		- Applications of Review and mini-project
+		- elementE - sample code		- java code for Review and mini-project
+		- elementF - image			- relevant images of Review and mini-project
+		- elementG - summary			- summary of Review and mini-project
+		- elementH - interview questions	- knowledge check about Review and mini-project
+
