@@ -611,48 +611,72 @@ Embrace repositories to streamline your data access code and create robust, data
     -   B. To simplify Java application development. :rocket:
     -   C. To promote XML-based configuration.
     -   D. To eliminate the need for a development environment.
+    
+  **Correct Answer:** B. To simplify Java application development.✅
+
 2.  Which annotation is used to mark a class as a RESTful controller in Spring Boot? 🏷
     
     -   A. @Controller
     -   B. @RestController :computer:
     -   C. @RequestMapping
     -   D. @Autowired
+
+  **Correct Answer:** @RestController.✅
+
 3.  What is the purpose of the `@RequestMapping` annotation in Spring Boot? 🌐
     
     -   A. To define request mapping in XML configuration.
     -   B. To map HTTP requests to specific controller methods. :globe_with_meridians:
     -   C. To specify the application's default port.
     -   D. To enable auto-configuration.
+
+  **Correct Answer:** B. To map HTTP requests to specific controller methods.✅
+
 4.  Which annotation is used for automatic dependency injection in Spring Boot? 📦
     
     -   A. @Inject
     -   B. @Autowired :electric_plug:
     -   C. @Component
     -   D. @Service
+
+  **Correct Answer:** B. @Autowired✅
+
 5.  What does the `@Service` annotation indicate in Spring Boot? 🏢
     
     -   A. It marks a class as a service class, typically used for business logic. :office_building:
     -   B. It specifies the application's default service port.
     -   C. It enforces strict naming conventions.
     -   D. It triggers Spring Boot's auto-configuration.
+
+  **Correct Answer:** A. It marks a class as a service class, typically used for business logic.✅
+
 6.  Which directory is commonly used for storing static resources (e.g., CSS, JavaScript) in a Spring Boot project? 📁
     
     -   A. /static_resources
     -   B. /public
     -   C. /assets
     -   D. /src/main/resources/static :file_folder:
+
+  **Correct Answer:** D. /src/main/resources/static✅
+
 7.  What is the primary benefit of separating concerns in the Model-View-Controller (MVC) architecture? 🧩
     
     -   A. It promotes tight coupling between components.
     -   B. It reduces code modularity and maintainability.
     -   C. It enforces complex configuration.
     -   D. It enhances code maintainability and reusability. :building_construction:
+
+  **Correct Answer:** D. It enhances code maintainability and reusability.✅
+
 8.  Which component of the MVC architecture handles the presentation logic in Spring Boot? 🎨
     
     -   A. Model
     -   B. View :eyes:
     -   C. Controller
     -   D. Repository
+
+  **Correct Answer:** B. View✅
+
 9.  In Spring Boot, what is the primary purpose of a repository interface when dealing with data access? 🏦
     
     -   A. To define HTTP request mappings.
@@ -660,72 +684,108 @@ Embrace repositories to streamline your data access code and create robust, data
     -   C. To define database CRUD operations. :file_cabinet:
     -   D. To configure the application's logging.
 
+  **Correct Answer:** C. To define database CRUD operations.✅
+
+
 10.  What is the significance of a well-organized project structure in Spring Boot? 🏗️
     
      -   A. It makes the application run faster.
       -   B. It enforces strict coding standards.
       -   C. It promotes clear separation of concerns and code maintainability. :building_construction:
       -   D. It reduces the need for dependency injection.
+
+  **Correct Answer:** C. It promotes clear separation of concerns and code maintainability.✅
+
 11.  Which annotation in Spring Boot is often used for automatic dependency injection? 🧩
     
       -   A. @Inject
       -   B. @Autowired :electric_plug:
       -   C. @Service
       -   D. @Repository
+
+  **Correct Answer:** B. @Autowired✅
+
 12.  What is the purpose of the `@SpringBootApplication` annotation in the main application class of a Spring Boot project? 🚀
     
       -   A. To specify the application's default port.
       -   B. To mark the class as a service.
       -   C. To enable various Spring Boot features and bootstraps the application. :rocket:
       -   D. To define request mappings.
+
+  **Correct Answer:** C. To enable various Spring Boot features and bootstraps the application.✅
+
 13.  In a Spring Boot project, where is the `application.properties` file typically located? 📝
     
       -   A. In the /config directory
       -   B. In the /resources directory :file_folder:
       -   C. In the /src directory
       -   D. In the /static directory
+
+  **Correct Answer:** B. In the /resources directory✅
+
 14.  What is the primary benefit of using a template engine like Thymeleaf in Spring Boot? 🖼️
     
       -   A. To simplify database operations
       -   B. To handle static resource requests
       -   C. To enhance code maintainability
       -   D. To generate dynamic HTML views easily :rocket:
+
+  **Correct Answer:** D. To generate dynamic HTML views easily.✅
+
 15.  Which component of the Model-View-Controller (MVC) architecture handles the business logic in Spring Boot? 💼
     
       -   A. Model :file_cabinet:
       -   B. View
       -   C. Controller
       -   D. Repository
+
+  **Correct Answer:** A. Model✅
+
 16.  What is the primary advantage of using Spring Boot repositories for data access? 🏦
     
       -   A. Automating project builds
       -   B. Enforcing naming conventions
       -   C. Reducing code reusability
       -   D. Simplifying database operations :office_building:
+
+  **Correct Answer:** D. Simplifying database operations.✅
+
 17.  In Spring Boot, which annotation is commonly used to define a class as a service, typically used for business logic? 🏢
     
       -   A. @Controller
       -   B. @Repository
       -   C. @Component
-      -   D. @Service :office_building:
+      -   D. @Service 🏗
+
+  **Correct Answer:** D. @Service✅
+
 18.  How does the Model-View-Controller (MVC) architecture benefit Spring Boot applications? 🧩
     
       -   A. By minimizing code reuse
       -   B. By enforcing tight coupling between components
       -   C. By promoting code modularity and maintainability :building_construction:
       -   D. By increasing development complexity
+
+  **Correct Answer:** C. By promoting code modularity and maintainability.✅
+
 19.  What is the primary purpose of a repository interface in Spring Boot when dealing with data access? 🏦
     
       -   A. To define HTTP request mappings
       -   B. To manage user authentication
       -   C. To define database CRUD operations :file_cabinet:
       -   D. To configure the application's logging
+
+  **Correct Answer:** C. To define database CRUD operations.✅
+
 20.  What are the core advantages of a well-structured Spring Boot project? 🏗️
     
       -   A. Complex configuration and slower development
       -   B. Tight coupling and reduced maintainability
       -   C. Clear separation of concerns, code maintainability, and reusability :building_construction:
      -   D. Decreased application performance and increased code redundancy
+
+  **Correct Answer:** C. Clear separation of concerns, code maintainability, and reusability.✅
+
 
 🌱"Congratulations on completing Day 2 of our Spring Boot journey! You've covered a wide range of topics today, from understanding the essential annotations in Spring Boot to diving into the Model-View-Controller (MVC) architecture. You've also learned how to utilize Spring Boot repositories effectively.
 
