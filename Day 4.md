@@ -411,12 +411,18 @@ In summary, Day 4 equipped us with the skills to efficiently access and manipula
    - C. Just Programming Away
    - D. Java Persistence Application
 
+  **Correct Answer:** A. Java Persistence API✅
+
+
 **2. What is the primary advantage of using Spring Data JPA for data access in Spring Boot applications?** 🌟
 
    - A. Enhanced security features
    - B. Reduced boilerplate code
    - C. Native mobile app development
    - D. Improved network performance
+
+  **Correct Answer:** B. Reduced boilerplate code✅
+
 
 **3. Which of the following operations is NOT part of CRUD in the context of database operations?** 📟
 
@@ -425,12 +431,18 @@ In summary, Day 4 equipped us with the skills to efficiently access and manipula
    - C. Update
    - D. Delete
 
+  **Correct Answer:** B. Refresh✅
+
+
 **4. In Spring Boot, what is the purpose of an entity class when working with Spring Data JPA?** 🏗️
 
    - A. To represent data objects
    - B. To create RESTful APIs
    - C. To handle user authentication
    - D. To manage server configurations
+
+  **Correct Answer:** A. To represent data objects✅
+
 
 **5. Which annotation is commonly used to mark a class as an entity in JPA?** 🏷
 
@@ -439,12 +451,18 @@ In summary, Day 4 equipped us with the skills to efficiently access and manipula
    - C. @Data
    - D. @Component
 
+  **Correct Answer:** A. @Entity✅
+
+
 **6. What does CRUD stand for in the context of database operations?** 💾
 
    - A. Create, Read, Update, Delete
    - B. Compile, Run, Update, Debug
    - C. Create, Run, Utilize, Delete
    - D. Compile, Remove, Undo, Deploy
+
+  **Correct Answer:** A. Create, Read, Update, Delete✅
+
 
 **7. Which template engines were discussed for dynamic web page generation in Spring Boot?** 🛠️
 
@@ -453,12 +471,18 @@ In summary, Day 4 equipped us with the skills to efficiently access and manipula
    - C. Velocity and Freemarker
    - D. Thymeleaf and Freemarker
 
+  **Correct Answer:** A. Thymeleaf and Velocity✅
+
+
 **8. What is the primary advantage of server-side rendering using template engines like Thymeleaf or Freemarker?** 🌐
 
    - A. Faster page loading
    - B. Improved SEO (Search Engine Optimization)
    - C. Enhanced security
    - D. Better support for client-side scripting
+
+  **Correct Answer:** B. Improved SEO (Search Engine Optimization).✅
+
 
 **9. Which of the following is NOT a benefit of using templates for web page generation?** 🌈
 
@@ -467,12 +491,18 @@ In summary, Day 4 equipped us with the skills to efficiently access and manipula
    - C. Enhanced maintainability
    - D. Dynamic content generation
 
+  **Correct Answer:** D. Dynamic content generation✅
+
+
 **10. What is a Thymeleaf fragment?** 🏗️
 
    - A. A reusable code snippet within a template
    - B. A database table in Spring Boot
    - C. A static resource file
    - D. A JavaScript library for animations
+
+  **Correct Answer:** A. A reusable code snippet within a template✅
+
 
 
 **11. In Spring Data JPA, what is the role of a repository interface?** 📃
@@ -482,12 +512,18 @@ In summary, Day 4 equipped us with the skills to efficiently access and manipula
    - C. To manage Spring Boot configuration
    - D. To create dynamic web pages
 
+  **Correct Answer:** B. To define CRUD methods for an entity✅
+
+
 **12. What is a JpaRepository used for in Spring Data JPA?** 🏗️
 
    - A. To define templates for Thymeleaf
    - B. To manage RESTful endpoints
    - C. To perform database operations for an entity
    - D. To handle client-side scripting
+
+  **Correct Answer:** C. To perform database operations for an entity✅
+
 
 **13. Which annotation is used to mark a method as a query method in a Spring Data JPA repository interface?** 🏷
 
@@ -496,12 +532,17 @@ In summary, Day 4 equipped us with the skills to efficiently access and manipula
    - C. @JpaQuery
    - D. @SqlQuery
 
+  **Correct Answer:** A. @Query✅
+
+
 **14. What is the purpose of the EntityManager in JPA?** 📟
 
    - A. To create RESTful APIs
    - B. To manage entity instances
    - C. To handle user authentication
    - D. To define database schemas
+
+  **Correct Answer:** B. To manage entity instances✅
 
 **15. Which of the following is a valid example of a Thymeleaf expression in a template?** 🛠️
 
@@ -510,12 +551,18 @@ In summary, Day 4 equipped us with the skills to efficiently access and manipula
    - C. `<div ng-repeat="item in items">`
    - D. `<c:forEach var="item" items="${items}">`
 
+  **Correct Answer:** A. `<div th:each="item : ${items}">`✅
+
+
 **16. What is the purpose of the `model.addAttribute()` method in a Spring Boot controller?** 🏗️
 
    - A. To define entity classes
    - B. To create RESTful endpoints
    - C. To add attributes to the model for use in a view
    - D. To execute database queries
+
+  **Correct Answer:** C. To add attributes to the model for use in a view✅
+
 
 **17. Which HTTP status code indicates a successful HTTP request in most cases?** 🚥
 
@@ -524,12 +571,17 @@ In summary, Day 4 equipped us with the skills to efficiently access and manipula
    - C. 500 Internal Server Error
    - D. 401 Unauthorized
 
+  **Correct Answer:** A. 200 OK✅
+
 **18. In a Thymeleaf template, how do you display the value of a model attribute named `username` within an HTML element?** 🌐
 
    - A. `<span th:text="${username}"></span>`
    - B. `<span>${username}</span>`
    - C. `<span th:value="${username}"></span>`
    - D. `<span>${model.username}</span>`
+
+  **Correct Answer:**A. `<span th:text="${username}"></span>`✅
+
 
 **19. What is the primary benefit of using Spring Data JPA repositories over traditional SQL queries?** 💾
 
@@ -538,12 +590,18 @@ In summary, Day 4 equipped us with the skills to efficiently access and manipula
    - C. Reduced boilerplate code
    - D. Enhanced database compatibility
 
+  **Correct Answer:** C. Reduced boilerplate code✅
+
+
 **20. Which of the following is a benefit of using Thymeleaf over JSP for server-side rendering in Spring Boot?** 🌟
 
    - A. Better support for client-side scripting
    - B. Improved performance
    - C. Native mobile app development
    - D. Enhanced security features
+
+  **Correct Answer:** A. Better support for client-side scripting✅
+
 
 **Congratulations on completing Day 4 of your Spring Boot journey!** 🎉
 
