@@ -397,120 +397,183 @@ Day 5 provided insights into web development with Spring Boot, from understandin
     -   B. Simplifying web application development 🌐
     -   C. Managing server configurations 🖥️
     -   D. Implementing security protocols 🔐
+
+    **Correct Answer:** B. Simplifying web application development✅
+
+
 2.  Which template engines are commonly used in Spring Boot for dynamic view generation?
     
     -   A. Mustache and Velocity 🌀
     -   B. Thymeleaf and Freemarker 📃
     -   C. JSP and Ruby on Rails 💎
     -   D. Handlebars and JSX 🖋️
+
+    **Correct Answer:** B. Thymeleaf and Freemarker✅
+
+
 3.  In the context of Spring Boot, what is the primary function of a controller?
     
     -   A. Storing application data 🗄️
     -   B. Handling HTTP requests and defining routing 🌐
     -   C. Rendering web pages 🖥️
     -   D. Managing database connections 📊
+
+**Correct Answer:** B. Handling HTTP requests and defining routing✅
+
+
 4.  Which architectural pattern emphasizes the separation of concerns and is commonly applied in Spring Boot web applications?
     
     -   A. Singleton 🕺
     -   B. Model-View-Controller (MVC) 🌟
     -   C. Prototype 📦
     -   D. Observer 👀
+
+**Correct Answer:** B. Model-View-Controller (MVC)✅
+
 5.  What is the significance of the Model in the MVC architecture?
     
     -   A. Managing user interactions 🙋
     -   B. Handling HTTP requests and responses 🌐
     -   C. Storing and managing application data 🗄️
     -   D. Controlling the user interface 💻
+
+**Correct Answer:** C. Storing and managing application data ✅
+
 6.  Which annotation is commonly used to define a controller class in Spring Boot?
     
     -   A. @Component 🧩
     -   B. @Controller 🎮
     -   C. @Service 🛠️
     -   D. @Repository 📂
+
+**Correct Answer:** B. @Controller ✅
+
 7.  What does Thymeleaf offer in Spring Boot for dynamic view generation?
     
     -   A. Server-side rendering 🖥️
     -   B. Client-side rendering 🌐
     -   C. Real-time data updates 🔄
     -   D. Serverless architecture 🚀
+
+**Correct Answer:** A. Server-side rendering✅
+
 8.  In the MVC pattern, what is the primary responsibility of the View?
     
     -   A. Handling user input 📝
     -   B. Processing business logic 🏢
     -   C. Displaying the user interface 💻
     -   D. Storing application data 🗄️
+
+**Correct Answer:** C. Displaying the user interface✅
+
 9.  Which of the following is NOT a common HTTP method used in Spring Boot for handling requests?
     
     -   A. GET 📭
     -   B. POST 📬
     -   C. DELETE 🗑️
     -   D. PULL 🧲
+
+**Correct Answer:** D. PULL ✅
+
 10.  What does the term "server-side rendering" refer to in the context of web development?
     
       -   A. Rendering graphics on the server side 🖼️
       -   B. Generating web pages on the client side 🌐
       -   C. Processing user input on the server side ⌨️
       -   D. Creating dynamic HTML on the server side 🖥️
+
+**Correct Answer:** D. Creating dynamic HTML on the server side✅
+
 11.  Which component of the MVC pattern handles user input and interacts with the Model and View?
     
       -   A. Model 🗄️
       -   B. View 💻
       -   C. Controller 🎮
       -   D. Template Engine 📃
+
+**Correct Answer:** C. Controller✅
+
 12.  How does Spring Boot facilitate the integration of Thymeleaf templates in web applications?
     
       -   A. By providing a built-in JavaScript framework 🚀
       -   B. By offering a RESTful API 🌐
       -   C. By automatically configuring Thymeleaf as a template engine 📃
       -   D. By embedding Thymeleaf scripts directly in HTML files 📜
+
+**Correct Answer:** C. By automatically configuring Thymeleaf as a template engine✅
+
 13.  Which annotation is used to specify a request mapping in a Spring Boot controller method?
     
       -   A. @RequestMapping 🌐
       -   B. @GetMapping 📭
       -   C. @Request 🗂️
       -   D. @Route 🚧
+
+**Correct Answer:** A. @RequestMapping✅
+
 14.  What is the primary advantage of using a template engine like Thymeleaf or Freemarker in Spring Boot?
     
       -   A. Client-side rendering for faster page loading 🌐
       -   B. Server-side rendering for dynamic page generation 🖥️
       -   C. Real-time data synchronization with the server 🔄
       -   D. Native mobile app development 📱
+
+**Correct Answer:** B. Server-side rendering for dynamic page generation✅
+
 15.  Which of the following is a common use case for Spring Boot web applications?
     
       -   A. Real-time video game development 🎮
       -   B. Building RESTful APIs 🌐
       -   C. Scientific research data analysis 🧪
       -   D. Machine learning model training 🤖
+
+**Correct Answer:**B. Building RESTful APIs 🌐✅
+
 16.  In Spring Boot, which component typically handles database interactions and data storage?
     
       -   A. Controller 🎮
       -   B. View 💻
       -   C. Model 🗄️
       -   D. Repository 📂
+
+**Correct Answer:** D. Repository ✅
+
 17.  What is the purpose of the Model component in the Model-View-Controller (MVC) architecture?
     
       -   A. Handling HTTP requests and responses 🌐
       -   B. Defining URL mappings 🖇️
       -   C. Managing application data and state 🗄️
       -   D. Rendering web pages 🖥️
+
+**Correct Answer:** C. Managing application data and state✅
+
 18.  Which HTTP status code typically indicates a successful response in Spring Boot?
     
       -   A. 200 OK 🟢
       -   B. 404 Not Found 🚫
       -   C. 500 Internal Server Error ⚠️
       -   D. 302 Found 🚚
+
+**Correct Answer:** A. 200 OK ✅
+
 19.  What does the term "serverless architecture" mean in the context of web development?
     
       -   A. Building applications without a physical server 🌐
       -   B. Using servers that are invisible to end-users 🕵️
       -   C. Hosting web apps on a local machine 🏠
       -   D. Developing apps without a graphical user interface 📟
+
+**Correct Answer:** A. Building applications without a physical server✅
+
 20.  Which Spring Boot annotation is used to mark a class as a service component?
     
       -   A. @Component 🧩
       -   B. @Controller 🎮
       -   C. @Service 🛠️
       -   D. @Repository 📂
+
+**Correct Answer:** C. @Service ✅
+
 
 📚 Day 5 has been an exciting journey through Spring Boot web development, where we explored the essential components like controllers, views, and template engines. We also delved into the Model-View-Controller (MVC) architecture, understanding how it shapes modern web applications.
 
